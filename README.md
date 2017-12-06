@@ -11,3 +11,8 @@ Comparative between temperature measured with internal ATmega328p ADC (1.1V refe
 * ADS1115 (blue)
 
 ![alt text](https://github.com/agaelema/ADS1115_and_LM35/blob/master/imagens/ADS1115-vs-nanoADC.jpg?raw=true "Logo Title Text 1")
+
+___
+### DISCLAIMER
+
+This project (software and hardware) is provided 'as is' with no explicit or implied warranties in respect of its properties, including, but not limited to, correctness and/or fitness for purpose.
